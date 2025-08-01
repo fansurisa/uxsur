@@ -3,7 +3,7 @@
 ---
 
 - **Mentoring Internships from SMK Cybermedia -  UI/UX Process**
-	- Introduction UI/UX - Presentation
+	- Introduction UI/UX - Presentation\
 		![[Fansuri Arrumi - Product UX Designer - July Monthly End Report 2025 (MER) [Fri 01 Aug 2025 02_51_47].webp|640x357]]
 	- Learning Color Theory
 	- Learning Laws in UX
